@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0238-product-of-array-except-self) |
 | [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2698-find-the-array-concatenation-value) |
 ## Math
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 | [3778-transform-array-by-parity](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
