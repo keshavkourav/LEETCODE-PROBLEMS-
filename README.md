@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0238-product-of-array-except-self) |
 | [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
