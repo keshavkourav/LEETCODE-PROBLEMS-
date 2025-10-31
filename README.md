@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1635-number-of-good-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3194-find-words-containing-character) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1603-running-sum-of-1d-array) |
+| [1833-find-the-highest-altitude](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1833-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
