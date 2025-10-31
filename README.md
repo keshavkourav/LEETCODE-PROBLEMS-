@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0238-product-of-array-except-self) |
 | [1293-three-consecutive-odds](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1293-three-consecutive-odds) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
+| [3194-find-words-containing-character](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3194-find-words-containing-character) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Prefix Sum
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0067-add-binary) |
+| [3194-find-words-containing-character](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3194-find-words-containing-character) |
 ## Bit Manipulation
 |  |
 | ------- |
