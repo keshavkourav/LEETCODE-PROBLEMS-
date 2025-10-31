@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0067-add-binary) |
+| [0191-number-of-1-bits](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0231-power-of-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
