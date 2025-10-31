@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2698-find-the-array-concatenation-value](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2698-find-the-array-concatenation-value) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1833-find-the-highest-altitude) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0067-add-binary) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3379-score-of-a-string) |
