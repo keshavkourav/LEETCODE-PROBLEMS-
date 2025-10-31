@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0238-product-of-array-except-self) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Prefix Sum
 |  |
 | ------- |
