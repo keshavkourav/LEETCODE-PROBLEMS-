@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1833-find-the-highest-altitude) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2698-find-the-array-concatenation-value](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2698-find-the-array-concatenation-value) |
 | [3194-find-words-containing-character](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0027-remove-element) |
 | [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2698-find-the-array-concatenation-value) |
 ## Math
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2698-find-the-array-concatenation-value](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2698-find-the-array-concatenation-value) |
 ## Recursion
 |  |
 | ------- |
