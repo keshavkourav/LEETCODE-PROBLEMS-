@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1293-three-consecutive-odds) |
+| [1505-create-target-array-in-the-given-order](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1603-running-sum-of-1d-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0067-add-binary) |
+| [1505-create-target-array-in-the-given-order](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Recursion
