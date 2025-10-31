@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0066-plus-one) |
 | [0238-product-of-array-except-self](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0238-product-of-array-except-self) |
+| [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1293-three-consecutive-odds) |
 | [1635-number-of-good-pairs](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1635-number-of-good-pairs) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0027-remove-element) |
+| [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -77,5 +79,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 | [3778-transform-array-by-parity](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3778-transform-array-by-parity) |
 <!---LeetCode Topics End-->
