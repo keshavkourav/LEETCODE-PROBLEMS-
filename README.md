@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0238-product-of-array-except-self) |
+| [0898-transpose-matrix](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1293-three-consecutive-odds) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0067-add-binary) |
+| [0898-transpose-matrix](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0075-sort-colors) |
 | [1019-squares-of-a-sorted-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1019-squares-of-a-sorted-array) |
 | [3778-transform-array-by-parity](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3778-transform-array-by-parity) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
