@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
@@ -112,5 +113,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1677-matrix-diagonal-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
