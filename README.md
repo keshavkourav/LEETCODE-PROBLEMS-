@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1833-find-the-highest-altitude) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2698-find-the-array-concatenation-value](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2698-find-the-array-concatenation-value) |
 | [3194-find-words-containing-character](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/3194-find-words-containing-character) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2058-concatenation-of-array) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2698-find-the-array-concatenation-value](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2698-find-the-array-concatenation-value) |
 ## Recursion
@@ -110,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/0898-transpose-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/keshavkourav/LEETCODE-PROBLEMS-/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
